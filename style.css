@@ -4,12 +4,12 @@ body, h1, p {
 }
 
 body {
-    font-family: Arial;
-    background-color: white;
+    font-family: serif;
+    background-color: black;
 }
 
 h1 {
-    color: black;
+    color: gray;
 }
 
 p {
